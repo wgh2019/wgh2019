@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++ dotNet golang
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me from QQ:846509690
+- 📫 reach me from Email:846509690@qq.com
 
 <!---
 wgh2019/wgh2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
